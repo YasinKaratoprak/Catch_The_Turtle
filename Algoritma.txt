@@ -1,0 +1,7 @@
+1-Alanı oluştur
+2-Kaplumbağayı oluştur
+3-Kaplumbağanın resmini değiştir
+4-Kaplumbağaya dokununca test sonucu 1 dokunamayınca 0 yazdır
+5-Kaplumbağaya dokununca sayması için bir sayaç ekle
+6-Bir zamanlayıcı ekle
+7-Belirli skorlara karşılık Kazandın, orta, kaybettin ekle
